@@ -7,7 +7,7 @@ Some basic metaheuristics implemented in Julia Language:
 Before using, [download and install](https://julialang.org/downloads/) Julia Language. To execute the files:
 
 ```
-cd /path-to-your-executable-julia
+cd /path-to-your-executable-julia/
 ./julia /path-julia-files/file.jl
 
 ```
